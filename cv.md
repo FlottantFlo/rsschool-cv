@@ -2,6 +2,7 @@
 ## Phone: 8-965-410-59-87
 ## E-mail: rusina.nikol@mail.ru
 ## Telegram: @FlottantFlo
+## VK: nika_nika_nya
 
 # Briefly About Myself:
 The beginning of the frontend appeared when I was in college. Every term paper and practice report contained the writing of this or that site. The sites were simple, just HTML and CSS, with minimal use of JavaScript. The graduate qualification work consisted of writing a website for an organization. Gathering information from the customer and obtaining the terms of reference was also the essence of the work. The site included 15 pages with the ability to scroll through and a button to fill and send a form for feedback. 
